@@ -44,12 +44,13 @@ Note: Test will only pass once for now due to the limitations of the current set
 
 ## To Dos
 
-- [ ] Typescript
-- [ ] Automate new fork creation
-- [ ] Automate wallet funding with SHIB tokens
-- [ ] Write integration tests for leveraged borrows
-- [ ] Set up frontend repository
-- [ ] Integrate state management layer with smart contract
-- [ ] MVP
-- [ ] E2E tests with Playwright
-- [ ] Improve look n feel
+- [ ] Typescript (3hrs)
+- [ ] Set up frontend repository (1hr)
+- [ ] Integrate state management layer with smart contract (3hrs)
+- [ ] MVP (5hrs)
+- [ ] Write integration tests for leveraged borrows (1-2days)
+- [ ] Automate wallet funding with SHIB tokens (1-2days)
+- [ ] Automate new fork creation (1-2days)
+- [ ] E2E tests with Playwright (1-2days)
+- [ ] Improve look n feel (1-2days)
+- [ ] Automate CICD (1-2days)
