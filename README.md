@@ -44,7 +44,7 @@ Note: Test will only pass once for now due to the limitations of the current set
 
 ## To Dos
 
-- [ ] Typescript (3hrs)
+- [x] Typescript (3hrs) https://www.npmjs.com/package/typechain#targets-
 - [ ] Set up frontend repository (1hr)
 - [ ] Integrate state management layer with smart contract (3hrs)
 - [ ] MVP (5hrs)
